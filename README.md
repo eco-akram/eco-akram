@@ -1,7 +1,7 @@
-![banner](https://i.pinimg.com/736x/70/8d/b0/708db031cbd5206418e7dc4614854e6e.jpg)
+<img src="https://i.pinimg.com/736x/70/8d/b0/708db031cbd5206418e7dc4614854e6e.jpg" width="1280">
 
 # Hi 👋 !
-
+ㅤ
 ## Table of contents
 * [My skills](#my-skills)
   
