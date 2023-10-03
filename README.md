@@ -13,13 +13,9 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
+## My skills
 Add more general information about project. What the purpose of the project is? Motivation?
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+### Coding skills
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+### Other skills
