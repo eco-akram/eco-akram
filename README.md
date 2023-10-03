@@ -17,8 +17,6 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ### Coding skills (Still learning)
-![aaa](https://github.com/Asabeneh/asabeneh/raw/master/images/html-5.svg)
-![bbb](https://github.com/Asabeneh/asabeneh/raw/master/images/css-3.svg)
-![ccc](https://github.com/Asabeneh/asabeneh/raw/master/images/javascript.svg)
+<img src="eco-akram/img/js-logo.png">
 
 ### Other skills
