@@ -1,4 +1,4 @@
-<img src"/img/banner.gif">
+
 
 # Hi there 👋
 > Here goes your awesome project description!
