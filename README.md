@@ -10,6 +10,6 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ### Coding skills (Still learning)
-<img src="eco-akram/img/js-logo.png">
+<img src="img/html-logo.png" width="64">
 
 ### Other skills
