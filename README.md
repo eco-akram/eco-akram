@@ -8,7 +8,11 @@
 ## My skills
 
 #### Coding skills (Still learning)
-<img src="img/html-logo.png" width="64"> <img src="img/css-logo.png" width="70"> <img src="img/js-logo.png" width="55">
+<div style="text-align: center;">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
 #### Other skills
 <img src="img/ps-logo.png" width="70"> <img src="img/davinci-logo.png" width="55">
