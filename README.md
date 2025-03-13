@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Tech I Use</h2>
+<h2 align="left">Tech That I Often Use</h2>
 
 ###
 
